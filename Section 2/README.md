@@ -82,7 +82,7 @@ Key = " Name"        Value = "LinuxWebTier"
 - "aws deploy push --application-name DemoApp --ignore-hidden-files --s3-location s3://bucketname/objectname --source . "
 
 
-## That is the END of this Lesson 
+# That is the END of this Section 
 
 
 
