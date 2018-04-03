@@ -6,7 +6,7 @@ This repo is for a practical use of AWS CodeDeploy services. This Repo will Demo
 3) Design and implement CodeDeploy deployments groups
 4) Troubleshoot CodeDeploy
 
-## Lessons
+## Sections
 
 There are 5 Sections.
 
