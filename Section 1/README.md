@@ -87,6 +87,6 @@ This Lesson is designed for setting up the initial requirements for AWS CodeDepl
 - WindowsAMIID: use the community AMI and choose a windows AMI which is provided by amazon, so it has cli built in it, and also has iis e.g ami-31029d4b
 
 
-## That is the END of this Lesson 
+# That is the END of this section
 
 
