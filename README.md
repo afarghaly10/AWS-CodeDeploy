@@ -8,13 +8,13 @@ This repo is for a practical use of AWS CodeDeploy services. This Repo will Demo
 
 ## Lessons
 
-There are 5 lessons.
+There are 5 Sections.
 
- - Lesson 1 - Setup and prequisites
- - Lesson 2 - Application and Deployment Groups
- - Lesson 3 - Project 1
- - Lesson 4 - Project 2
- - Lesson 5 - Project 3
+ - Section 1 - Setup and prequisites
+ - Section 2 - Application and Deployment Groups
+ - Section 3 - Project 1
+ - Section 4 - Project 2
+ - Section 5 - Project 3
 
 ## Get Started
 
