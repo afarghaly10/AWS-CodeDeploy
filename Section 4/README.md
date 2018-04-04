@@ -19,3 +19,11 @@
 - Service role ARN: arn:aws:iam::123456789010:role/CodeDeployServiceRole
 
 ## Step 2: Build revision for the LinuxWebTier and Publish it to AWS
+
+- Download Project 1 Resources.zip and unzip the folder.
+- Take the content an place it in your local github repo
+- open terminal, navigate to your local repo folder.
+- Type the following command " aws deploy push --application-name DemoApp --s3-location s3://bucketname/project1.zip --ignore-hidden-files --source ."
+- Deployment group namee: LinuxWebTier
+- Environment configuration: Amazon EC2 instances; Key: Name, Value: LinuxWebServer
+- Service role ARN: arn:aws:iam::123456789010:role/CodeDeployServiceRole
